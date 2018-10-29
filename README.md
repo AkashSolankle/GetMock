@@ -16,5 +16,5 @@ Online Examination System for Android phones is design to conduct an online exam
 4. Enjoy
 #nice website for Conduct online exams in classroom
 Remotely access the exams since almost everyone is having Smartphones
-Accurate, fast and reliable results
+
 
